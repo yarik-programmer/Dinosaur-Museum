@@ -1,0 +1,82 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(0, 75, 8);
+    padding: 20px;
+     text-align: left;
+    color: white;
+    margin: 10px;
+}
+section{
+background-color: rgb(254, 249, 216);;
+
+
+ padding: 10px;
+}
+a{
+    color: rgb(253, 161, 50);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(2, 129, 0);
+}
+h1{
+    margin-top: 0;
+
+}
+h2{
+    margin-top: 0;
+}
+header b{
+    color: rgb(255, 219, 39);
+}
+header i{
+    color: rgb(255, 219, 39);
+}
+main {
+    background-color: rgb(254, 249, 216);
+    text-align: left;
+    padding: 20px;
+    border: solid rgb(173, 113, 0) 2px;
+    margin: 10px;
+}
+main h2{
+    color: rgb(139, 66, 23);
+    background-color: rgb(254, 249, 216);
+}
+main b{
+    color: rgb(139, 66, 23);
+}
+main i{
+    color: rgb(0, 0, 0);
+}
+main p{
+    border: solid rgb(230, 195, 131) 2px;
+    padding: 10px;
+     background-color: rgb(254, 249, 216);
+}
+footer{
+    background-color: rgb(102, 48, 0);
+    text-align: left;
+    padding: 20px;
+    border: solid rgb(173, 113, 0) 2px;
+    margin: 5px;
+}
+footer h2{
+    color: white;
+}
+footer b{
+    color: rgb(255, 212, 179);
+}
+footer i{
+    color: rgb(255, 163, 92);
+}
+footer p{
+    color: white;
+}
+
+
